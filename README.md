@@ -23,9 +23,11 @@ Building Innovative Products ||
 Problem Solving & Logic Building || 
 Teaching & Mentoring in Programming 
 
-- 📫 How to reach me **yashhardly16@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+
+- 📫 How to reach me EmailID:- **yashhardly16@gmail.com** || Linkedin:- **www.linkedin.com/in/yash-wadpalliwar** || InstagrameID:- yash_wadpalliwar101
+
+
 <p align="left">
 </p>
 
