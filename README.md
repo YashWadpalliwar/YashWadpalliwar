@@ -8,15 +8,21 @@
 
 - 🔭 I’m currently working on [fireblazeaischool](https://fireblazeaischool.in/)
 
-- 🌱 I’m currently learning **React , Python , React Native**
+- 🌱 I’m currently learning **AI & Machine Learning (AI / ML) | High-Scale Big Data Analytics | React Native | Entrepreneurship Development and Business Communication | SAP**
 
 - 👯 I’m looking to collaborate on [Websync-Solution](https://websyncsolution.com/)
 
-- 🤝 I’m looking for help with **Web-App Design**
+- 🤝 I’m looking for help with **Professional Summary
+I specialize in web application design and data analysis, with hands-on experience in GitHub collaboration for version control and team projects. I am passionate about building innovative products, applying strong logical thinking to solve real-world problems, and continuously enhancing my programming skills.
+In addition to development, I focus on teaching and mentoring in programming, helping learners strengthen their foundations and apply coding concepts effectively. As an educator, I aim to bridge the gap between theory and practical application, empowering others to grow in the tech field**
 
-- 👨‍💻 All of my projects are available at [https://yashwadpalliwar.github.io/Myportfolio/](https://yashwadpalliwar.github.io/Myportfolio/)
-
-- 💬 Ask me about **Web Designing, MERN Stack**
+💬 Ask me about:
+Web Application Design & Development
+Data Analysis & Visualization
+GitHub Collaboration & Version Control
+Building Innovative Products
+Problem Solving & Logic Building
+Teaching & Mentoring in Programming etc..
 
 - 📫 How to reach me **yashhardly16@gmail.com**
 
