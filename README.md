@@ -12,8 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Websync-Solution](https://websyncsolution.com/)
 
-- 🤝 I’m looking for help with **Professional Summary
-I specialize in web application design and data analysis, with hands-on experience in GitHub collaboration for version control and team projects. I am passionate about building innovative products, applying strong logical thinking to solve real-world problems, and continuously enhancing my programming skills.
+- 🤝 I’m looking for help with:- **I specialize in Web Application Design & Development and Aata analysis, with hands-on experience in GitHub collaboration for version control and team projects. I am passionate about building innovative products, applying strong logical thinking to solve real-world problems, and continuously enhancing my programming skills.
 In addition to development, I focus on teaching and mentoring in programming, helping learners strengthen their foundations and apply coding concepts effectively. As an educator, I aim to bridge the gap between theory and practical application, empowering others to grow in the tech field**
 
 💬 Ask me about:
@@ -22,7 +21,7 @@ Data Analysis & Visualization
 GitHub Collaboration & Version Control
 Building Innovative Products
 Problem Solving & Logic Building
-Teaching & Mentoring in Programming etc..
+Teaching & Mentoring in Programming
 
 - 📫 How to reach me **yashhardly16@gmail.com**
 
