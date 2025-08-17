@@ -106,6 +106,28 @@ Teaching & Mentoring in Programming
   </a> ||
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI-ML" width="40" height="40"/> 
+  </a> ||
+   <!-- New additions -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> ||
+  <a href="https://www.sap.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/> 
+  </a> ||
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="scss" width="40" height="40"/> 
+  </a> ||
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+  </a> ||
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> ||
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> ||
+  <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftaccess.svg" alt="ms-access" width="40" height="40"/> 
   </a>
 </p>
 
