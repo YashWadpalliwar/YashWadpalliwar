@@ -16,12 +16,12 @@
 In addition to development, I focus on teaching and mentoring in programming, helping learners strengthen their foundations and apply coding concepts effectively. As an educator, I aim to bridge the gap between theory and practical application, empowering others to grow in the tech field**
 
 💬 Ask me about:
-Web Application Design & Development
-Data Analysis & Visualization
-GitHub Collaboration & Version Control
-Building Innovative Products
-Problem Solving & Logic Building
-Teaching & Mentoring in Programming
+Web Application Design & Development || 
+Data Analysis & Visualization || 
+GitHub Collaboration & Version Control || 
+Building Innovative Products || 
+Problem Solving & Logic Building || 
+Teaching & Mentoring in Programming 
 
 - 📫 How to reach me **yashhardly16@gmail.com**
 
