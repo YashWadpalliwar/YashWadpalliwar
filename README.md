@@ -157,8 +157,6 @@ hobbies    : Coding | Reading Tech Blogs | Problem Solving | Mentoring
 <td width="50%">
 
 ### 🏛️ G.H. Raisoni College of Engineering *(Autonomous)*
-**Master of Computer Applications (MCA)**
-`2024 – 2025` · Pursuing
 
 </td>
 <td width="50%">
