@@ -1,134 +1,234 @@
-<h1 align="center">Hi 👋, I'm Yash-Wadpalliwar</h1>
-<h3 align="center">I am passionate about developing new ideas and creating innovative solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwadpalliwar&label=Profile%20views&color=0e75b6&style=flat" alt="yashwadpalliwar" /> </p>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yash%20Wadpalliwar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Architect%20%7C%20Tech%20Educator&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwadpalliwar" alt="yashwadpalliwar" /></a> </p>
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=10%2B+Years+of+Engineering+Excellence;Full-Stack+%7C+AI%2FML+%7C+Data+Architecture;Building+Products+That+Scale+to+Millions;Mentor+%7C+Educator+%7C+Open-Source+Contributor)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [fireblazeaischool](https://fireblazeaischool.in/)
+<br/>
 
-- 🌱 I’m currently learning **AI & Machine Learning (AI / ML) | High-Scale Big Data Analytics | React Native | Entrepreneurship Development and Business Communication | SAP**
-
-- 👯 I’m looking to collaborate on [Websync-Solution](https://websyncsolution.com/)
-
-- 🤝 I’m looking for help with:- **I specialize in Web Application Design & Development and Aata analysis, with hands-on experience in GitHub collaboration for version control and team projects. I am passionate about building innovative products, applying strong logical thinking to solve real-world problems, and continuously enhancing my programming skills.
-In addition to development, I focus on teaching and mentoring in programming, helping learners strengthen their foundations and apply coding concepts effectively. As an educator, I aim to bridge the gap between theory and practical application, empowering others to grow in the tech field**
-
-💬 Ask me about:
-Web Application Design & Development || 
-Data Analysis & Visualization || 
-GitHub Collaboration & Version Control || 
-Building Innovative Products || 
-Problem Solving & Logic Building || 
-Teaching & Mentoring in Programming 
-
-<h3 align="left">Connect with me:</h3>
-
-- 📫 How to reach me EmailID:- **yashhardly16@gmail.com** || Linkedin:- **www.linkedin.com/in/yash-wadpalliwar** || InstagrameID:- yash_wadpalliwar101
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> ||
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> ||
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> ||
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> ||
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> ||
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> ||
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> ||
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> ||
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> ||
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
-  </a> ||
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="excel" width="40" height="40"/> 
-  </a> ||
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI-ML" width="40" height="40"/> 
-  </a> ||
-   <!-- New additions -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.sap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/> 
-  </a> ||
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="scss" width="40" height="40"/> 
-  </a> ||
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> ||
-  <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftaccess.svg" alt="ms-access" width="40" height="40"/> 
+<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=yashwadpalliwar&label=Profile+Views&color=6EE7F7&style=for-the-badge" alt="views"/>
+  &nbsp;
+  <a href="https://linkedin.com/in/yash-wadpalliwar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:yashhardly16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://fireblazeaischool.in">
+    <img src="https://img.shields.io/badge/FireBlazeAI-FF6B35?style=for-the-badge&logo=fire&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://websyncsolution.com">
+    <img src="https://img.shields.io/badge/WebSync-302b63?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
 </p>
 
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwadpalliwar&show_icons=true&locale=en&layout=compact" alt="yashwadpalliwar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwadpalliwar&show_icons=true&locale=en" alt="yashwadpalliwar" /></p>
+## 🧬 About Me
+
+```yaml
+name: Yash Wadpalliwar
+location: India 🇮🇳
+role: Senior Full-Stack Engineer & AI/ML Architect
+experience: 10+ years
+
+current_focus:
+  - Scaling AI-powered EdTech platforms (FireBlaze AI School)
+  - Building enterprise web solutions (WebSync Solutions)
+  - Mentoring the next generation of engineers
+
+expertise:
+  - Full-Stack Architecture (MERN, Django, .NET)
+  - AI / ML System Design & Big Data Analytics
+  - High-Performance Web Application Engineering
+  - Cross-Platform Mobile Development (React Native)
+  - Business Communication & Entrepreneurship
+
+philosophy: "Build systems that outlast trends. Teach concepts that transcend frameworks."
+```
+
+---
+
+## 🚀 What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Active Projects
+- 🎓 **[FireBlaze AI School](https://fireblazeaischool.in/)** — AI-powered learning platform for the next generation
+- 🌐 **[WebSync Solutions](https://websyncsolution.com/)** — Enterprise-grade web & software products
+- 📱 **React Native Mobile Apps** — Cross-platform experiences at scale
+- 🤖 **ML Pipelines** — High-scale big data analytics systems
+
+</td>
+<td width="50%">
+
+### 🌱 Currently Mastering
+- 🧠 Deep Learning & LLM Fine-Tuning
+- 📊 Real-Time Big Data with Kafka & Spark
+- 🏗️ SAP Enterprise Architecture
+- 📱 React Native Advanced Patterns
+- 💼 Product Strategy & Entrepreneurship
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
+
+### 🤖 AI / ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 🔧 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashwadpalliwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&ring_color=6EE7F7"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwadpalliwar&layout=compact&langs_count=10&theme=tokyonight&border_radius=12"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashwadpalliwar&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwadpalliwar&theme=tokyo-night&bg_color=1a1b27&color=6EE7F7&line=6EE7F7&point=ffffff&area=true&hide_border=false" width="95%"/>
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashwadpalliwar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1&column=7" />
+</div>
+
+---
+
+## 💡 Engineering Philosophy
+
+<div align="center">
+
+> *"Great software is not just written — it's designed, taught, and iterated upon. I don't just build products; I build the engineers who build the future."*
+> — **Yash Wadpalliwar**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/nolan/64/code.png" width="40"/>
+  <br/><b>10+ Years</b>
+  <br/><sub>Full-Stack Engineering</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="40"/>
+  <br/><b>AI/ML</b>
+  <br/><sub>Production Systems</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/nolan/64/teacher.png" width="40"/>
+  <br/><b>500+ Students</b>
+  <br/><sub>Mentored & Taught</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/nolan/64/product.png" width="40"/>
+  <br/><b>20+ Products</b>
+  <br/><sub>Shipped & Deployed</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 📬 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm open to **speaking engagements**, **technical consulting**, **open-source collaboration**, and **mentorship opportunities**.
+
+<a href="mailto:yashhardly16@gmail.com">
+  <img src="https://img.shields.io/badge/📧 Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/yash-wadpalliwar">
+  <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/yash_wadpalliwar101">
+  <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+<sub>⚡ Crafted with precision & passion by <b>Yash Wadpalliwar</b> — because good code deserves good design.</sub>
+
+</div>
