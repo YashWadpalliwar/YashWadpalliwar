@@ -164,8 +164,7 @@ hobbies    : Coding | Reading Tech Blogs | Problem Solving | Mentoring
 <td width="50%">
 
 ### 🏛️ Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU)
-**Bachelor of Commerce — Computer Application (BCCA)**
-`2021 – 2022` · Completed
+
 
 </td>
 </tr>
