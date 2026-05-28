@@ -11,7 +11,7 @@
 <!-- SOCIAL -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=yashwadpalliwar&label=Profile+Views&color=6EE7F7&style=for-the-badge" alt="Profile Views"/>
-  
+
   <a href="https://linkedin.com/in/yash-wadpalliwar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -53,19 +53,19 @@
 
 I am a **Senior Technical Trainer**, **Full-Stack Developer**, and **Data Analytics Educator** passionate about building scalable applications and mentoring future developers.
 
-With experience in **MERN Stack Development**, **Full Stack Python**, **Data Analytics**, and **AI/ML Education**, I focus on delivering practical, industry-oriented solutions and training programs.
+With expertise in **MERN Stack Development**, **Full Stack Python**, **Data Analytics**, **AI/ML**, and modern web technologies, I focus on delivering practical, industry-oriented solutions and technical education.
 
-I enjoy solving real-world problems, mentoring learners, developing high-performance applications, and creating impactful educational content.
+I enjoy solving real-world problems, building high-performance applications, mentoring learners, and creating impactful educational content focused on industry readiness and innovation.
 
 ---
 
 # 🚀 Professional Summary
 
-- Senior Technical Trainer with expertise in Full Stack Development and Data Analytics
-- Experienced in MERN Stack, Python, Django, React.js, Node.js, and REST APIs
-- Strong background in Power BI, SQL, Machine Learning, and Data Visualization
-- Mentor for project-based learning and industry-ready technical training
-- Passionate about scalable architectures, problem solving, and technical leadership
+Senior Technical Trainer and Full-Stack Developer with expertise in MERN Stack Development, Full Stack Python, Data Analytics, and AI/ML Education.
+
+Experienced in building scalable web applications, delivering project-based technical training, and mentoring students for industry readiness. Strong background in Full Stack Architecture, REST APIs, Power BI, SQL, Machine Learning, and modern web technologies.
+
+Passionate about combining technical innovation, practical learning, and real-world problem solving to create impactful digital solutions and future-ready developers.
 
 ---
 
@@ -90,26 +90,28 @@ roles:
 strengths:
   - Technical Mentorship
   - Full Stack Web Development
-  - Data Analytics & BI
+  - Data Analytics & Business Intelligence
+  - AI/ML Project Guidance
   - Problem Solving
-  - Project Architecture
   - API Development
+  - Project Architecture
   - Real-World Project Training
 
 interests:
-  - Web Development
-  - Data Science
   - Artificial Intelligence
   - Machine Learning
+  - Full Stack Development
+  - Data Science
   - Technical Education
+  - AI Agents & LLMs
   - Scalable Application Design
 
 hobbies:
   - Coding
   - Reading Tech Blogs
   - Mentoring Students
-  - Problem Solving
   - Exploring AI Tools
+  - Problem Solving
 ```
 
 ---
@@ -270,6 +272,34 @@ hobbies:
 
 ---
 
+# 🏆 Achievements
+
+- 🚀 Improved workflow efficiency by **56%**
+- 💰 Reduced project costs by **20%**
+- 👨‍🏫 Mentored **500+ students** across development, analytics, and AI/ML
+- 📺 Built a growing technical audience with **10k+ YouTube subscribers**
+- 🌟 Delivered industry-focused practical training sessions
+- 💻 Developed scalable full-stack web applications and APIs
+- 📊 Guided learners in real-world analytics and dashboard projects
+
+---
+
+# 🔥 Current Focus
+
+- AI-Powered Courses & Technical Education
+- Advanced Full Stack Architecture
+- MERN Stack & Full Stack Python Development
+- AI/ML Model Development & Deployment
+- Working with Pre-trained Models and Hugging Face
+- Generative AI (GenAI) Applications
+- AI Agents | LLMs | RAG | Agentic AI
+- Real-World Project-Based Training
+- Scalable REST API Development
+- Data Analytics & Business Intelligence
+- Deployment, Optimization & Performance Engineering
+
+---
+
 # 📈 GitHub Analytics
 
 <div align="center">
@@ -298,32 +328,11 @@ hobbies:
 
 ---
 
-# 🏆 Achievements
-
-- 🚀 Improved workflow efficiency by **56%**
-- 💰 Reduced project costs by **20%**
-- 👨‍🏫 Mentored **500+ students**
-- 📺 Built a technical audience with **10k+ YouTube subscribers**
-- 🌟 Conducted practical and industry-focused technical training
-
----
-
-# 🔥 Current Focus
-
-- Advanced Full Stack Architecture
-- AI/ML Model Development
-- Power BI & Data Analytics
-- Scalable MERN Applications
-- Real-World Technical Training
-- Deployment & DevOps Workflows
-
----
-
 # 💡 Philosophy
 
 <div align="center">
 
-> “Technology becomes powerful when knowledge is shared effectively.”
+> “Technology becomes truly powerful when knowledge is shared, applied, and transformed into real-world impact.”
 
 </div>
 
