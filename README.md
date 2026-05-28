@@ -1,82 +1,367 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yash%20Wadpalliwar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Technical%20Trainer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Analytics%20%26%20AI%2FML%20Educator&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<!-- PREMIUM HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Yash%20Wadpalliwar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Senior%20Technical%20Trainer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Analytics%20%26%20AI%2FML%20Educator&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- INTRO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=6EE7F7&center=true&vCenter=true&width=900&lines=Engineering+Scalable+Web+Applications;Training+Future+Developers+and+Analysts;Building+with+MERN%2C+Python%2C+and+Data+Science;Leading+Projects%2C+Mentoring+Learners%2C+Delivering+Impact)](https://git.io/typing-svg)
+<!-- TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=6EE7F7&center=true&vCenter=true&width=900&lines=Engineering+Scalable+Applications;Building+Industry-Ready+Developers;MERN+Stack+%7C+Python+%7C+Data+Analytics;AI%2FML+Educator+%7C+Technical+Mentor;Creating+Real-World+Project+Solutions)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- SOCIAL LINKS -->
+<!-- SOCIAL -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=yashwadpalliwar&label=Profile+Views&color=6EE7F7&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=yashwadpalliwar&label=Profile+Views&color=6EE7F7&style=for-the-badge" alt="Profile Views"/>
+  
   <a href="https://linkedin.com/in/yash-wadpalliwar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+
   <a href="mailto:yashhardly16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
+
   <a href="https://fireblazeaischool.in">
-    <img src="https://img.shields.io/badge/FireBlaze_AI-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+    <img src="https://img.shields.io/badge/FireBlaze_AI-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
   </a>
-  &nbsp;
+
   <a href="https://websyncsolution.com">
-    <img src="https://img.shields.io/badge/WebSync_Solutions-302b63?style=for-the-badge&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/WebSync_Solutions-302b63?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
+
+  <img src="https://img.shields.io/badge/YouTube-10k%2B_Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+
 </p>
 
-<!-- CORE BADGES -->
+<!-- TECH BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-DSA-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN%20Stack-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/DSML%20%26%20AIML-FF6B35?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Technical%20Mentor-6EE7F7?style=flat-square&logo=bookstack&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-DSA-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/DSML%20%26%20AIML-FF6B35?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Technical%20Mentor-6EE7F7?style=flat-square&logo=bookstack&logoColor=black"/>
 </p>
 
 </div>
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-I am a **Senior Technical Trainer** and **Full-Stack Developer** with strong expertise in **Data Analytics, Full Stack Python, MERN Stack Development, and AI/ML education**. My focus is on building scalable digital solutions, improving developer productivity, and mentoring learners to become industry-ready professionals.
+I am a **Senior Technical Trainer**, **Full-Stack Developer**, and **Data Analytics Educator** passionate about building scalable applications and mentoring future developers.
 
-I work across development, training, and project delivery with a strong balance of technical depth and communication. My approach combines real-world problem solving, practical learning, and strong execution.
+With experience in **MERN Stack Development**, **Full Stack Python**, **Data Analytics**, and **AI/ML Education**, I focus on delivering practical, industry-oriented solutions and training programs.
 
----
-
-## Core Professional Identity
-
-- Senior Technical Trainer
-- Full-Stack Developer
-- Data Analytics Educator
-- MERN Stack & Full Stack Python Specialist
-- Mentor for project-based learning and career preparation
+I enjoy solving real-world problems, mentoring learners, developing high-performance applications, and creating impactful educational content.
 
 ---
 
-## Professional Snapshot
+# 🚀 Professional Summary
+
+- Senior Technical Trainer with expertise in Full Stack Development and Data Analytics
+- Experienced in MERN Stack, Python, Django, React.js, Node.js, and REST APIs
+- Strong background in Power BI, SQL, Machine Learning, and Data Visualization
+- Mentor for project-based learning and industry-ready technical training
+- Passionate about scalable architectures, problem solving, and technical leadership
+
+---
+
+# 🧠 Professional Profile
 
 ```yaml
-name        : Yash Wadpalliwar
-location    : Nagpur, Maharashtra, India
-languages   : English | Hindi | Marathi
-availability: Immediate / As per joining notice
-status      : Single
-nationality : Indian
+name         : Yash Wadpalliwar
+location     : Nagpur, Maharashtra, India
+languages    : English | Hindi | Marathi
+nationality  : Indian
+availability : Immediate / As per joining notice
+status       : Single
+
+roles:
+  - Senior Technical Trainer
+  - Full-Stack Developer
+  - Data Analytics Educator
+  - MERN Stack Specialist
+  - Full Stack Python Developer
+  - AI/ML Mentor
 
 strengths:
-  - Technical training and mentoring
-  - Full-stack web application development
-  - Data analytics and dashboard development
-  - Project architecture and execution
-  - Team collaboration and code review
-  - Problem solving and student guidance
+  - Technical Mentorship
+  - Full Stack Web Development
+  - Data Analytics & BI
+  - Problem Solving
+  - Project Architecture
+  - API Development
+  - Real-World Project Training
+
+interests:
+  - Web Development
+  - Data Science
+  - Artificial Intelligence
+  - Machine Learning
+  - Technical Education
+  - Scalable Application Design
+
+hobbies:
+  - Coding
+  - Reading Tech Blogs
+  - Mentoring Students
+  - Problem Solving
+  - Exploring AI Tools
+```
+
+---
+
+# 💼 Work Experience
+
+## 🏢 WebSync Solutions — Full Stack Developer
+📅 **2025 – Present**
+
+### Responsibilities
+- Develop scalable and responsive web applications
+- Build optimized backend systems and REST APIs
+- Manage GitHub collaboration and version control workflows
+- Improve database performance and application reliability
+- Deliver projects on time and within business requirements
+
+### Key Contributions
+- Reduced project costs by **20%**
+- Improved workflow efficiency by **56%**
+- Built scalable frontend and backend architectures
+- Enhanced deployment and development workflows
+
+---
+
+## 🏢 I-Tech — Programming Educator
+📅 **2025 – Present**
+
+### Technologies Taught
+- C
+- C++
+- Java
+- Python
+- C#.NET
+- SQL
+- MySQL
+
+### Development Technologies
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- Django
+- Firebase
+
+### Responsibilities
+- Conduct technical training sessions
+- Provide project-based learning support
+- Mentor students for interviews and placements
+- Guide learners in frontend and backend development
+- Support real-world project execution
+
+---
+
+## 🏢 Fireblaze AI School — Senior Technical Trainer & Educator
+📅 **2023 – Dec 2024**
+
+### Data Analytics & Data Science
+- Advanced Excel
+- Power BI
+- Tableau
+- SQL
+- MySQL
+- PostgreSQL
+- SQL Server
+- Python
+- Plotly
+- Statistics
+- Machine Learning
+
+### Full Stack Development
+- MERN Stack
+- Full Stack Python
+- Django
+- React.js
+- Node.js
+- Express.js
+
+### Key Responsibilities
+- Delivered project-based technical education
+- Conducted practical-oriented learning sessions
+- Mentored students through coding and projects
+- Assisted learners with resumes and placements
+- Conducted mock interviews and technical assessments
+
+---
+
+# 🎓 Education
+
+## 🎓 Master of Computer Application (MCA)
+🏛️ G.H. Raisoni College of Engineering (Autonomous)
+
+---
+
+## 🎓 Bachelor of Commerce in Computer Application (BCCA)
+🏛️ Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU)
+
+---
+
+# 🛠️ Technical Skills
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,cs"/>
+</p>
+
+---
+
+## 🌐 Full Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,express,django,firebase"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase"/>
+</p>
+
+- SQL Server
+- Oracle
+- MongoDB Atlas
+- MS Access
+
+---
+
+## 📊 Data Analytics & AI/ML
+
+- Advanced Excel
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Statistics
+- Machine Learning
+
+---
+
+## ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+</p>
+
+- SAP
+- Blender
+- Netlify
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashwadpalliwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwadpalliwar&layout=compact&langs_count=10&theme=tokyonight&border_radius=12"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yashwadpalliwar&theme=tokyonight&border_radius=12"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwadpalliwar&theme=tokyo-night&bg_color=1a1b27&color=6EE7F7&line=6EE7F7&point=ffffff&area=true&hide_border=false" width="95%"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+- 🚀 Improved workflow efficiency by **56%**
+- 💰 Reduced project costs by **20%**
+- 👨‍🏫 Mentored **500+ students**
+- 📺 Built a technical audience with **10k+ YouTube subscribers**
+- 🌟 Conducted practical and industry-focused technical training
+
+---
+
+# 🔥 Current Focus
+
+- Advanced Full Stack Architecture
+- AI/ML Model Development
+- Power BI & Data Analytics
+- Scalable MERN Applications
+- Real-World Technical Training
+- Deployment & DevOps Workflows
+
+---
+
+# 💡 Philosophy
+
+<div align="center">
+
+> “Technology becomes powerful when knowledge is shared effectively.”
+
+</div>
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:yashhardly16@gmail.com">
+<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yash-wadpalliwar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/yash_wadpalliwar101">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://fireblazeaischool.in">
+<img src="https://img.shields.io/badge/FireBlaze_AI-FF6B35?style=for-the-badge"/>
+</a>
+
+<a href="https://websyncsolution.com">
+<img src="https://img.shields.io/badge/WebSync_Solutions-302b63?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+### ⚡ Yash Wadpalliwar  
+Senior Technical Trainer • Full-Stack Developer • Data Analytics Educator
+
+</div>
