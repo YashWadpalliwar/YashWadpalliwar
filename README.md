@@ -119,7 +119,6 @@ hobbies:
 # 💼 Work Experience
 
 ## 🏢 WebSync Solutions — Full Stack Developer
-📅 **2025 – Present**
 
 ### Responsibilities
 - Develop scalable and responsive web applications
@@ -137,7 +136,6 @@ hobbies:
 ---
 
 ## 🏢 I-Tech — Programming Educator
-📅 **2025 – Present**
 
 ### Technologies Taught
 - C
@@ -170,7 +168,6 @@ hobbies:
 ---
 
 ## 🏢 Fireblaze AI School — Senior Technical Trainer & Educator
-📅 **2023 – Dec 2024**
 
 ### Data Analytics & Data Science
 - Advanced Excel
@@ -204,13 +201,11 @@ hobbies:
 
 # 🎓 Education
 
-## 🎓 Master of Computer Application (MCA)
-🏛️ G.H. Raisoni College of Engineering (Autonomous)
+## 🎓 G.H. Raisoni College of Engineering (Autonomous) 🏛️
 
 ---
 
-## 🎓 Bachelor of Commerce in Computer Application (BCCA)
-🏛️ Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU)
+## 🎓 Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU) 🏛️
 
 ---
 
